@@ -1,18 +1,11 @@
-# Millennial
-
-A minimalist Jekyll theme for running an online publication. For everything you would ever need to know, please visit [the demo site](https://lenpaul.github.io/Millennial/).
-
-![alt text](https://cloud.githubusercontent.com/assets/8409329/25604814/a810a4b6-2ed4-11e7-955d-e6ead13c436c.jpg "Lagrange Demo Image")
-
-### Quick-Start Guide
-
-To start using Jekyll right away, [fork the Millennial repository on GitHub](https://github.com/LeNPaul/Millennial/fork). From there, you can rename the repository to 'USERNAME.github.io', where 'USERNAME' is your GitHub username, and edit the `_config.yml` file to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at 'http://USERNAME.github.io'.
-
-Head over to the `_posts` directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.
-
-### Full Installation Guide
-
-For a full local installation of Lagrange, [download your own copy of Millennial](https://github.com/LeNPaul/Millennial/archive/gh-pages.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, and enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
+---
+layout: post
+title: "Working With Jekyll"
+categories: documentation
+tags: [documentation,sample]
+image:
+  feature: arctic-1.jpg
+---
 
 ### Posts
 
