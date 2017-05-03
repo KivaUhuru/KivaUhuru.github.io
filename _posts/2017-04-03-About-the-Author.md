@@ -6,6 +6,6 @@ tags: [sample]
 image:
   feature: about-kiva-backfacing.jpg
 ---
-### Aspiring Roboticist / Washed-Up Author / Petulant Artisté
+### Aspiring Roboticist / Writer / Musician / Illustrator
 
 About page in progress ... 
