@@ -1,11 +1,11 @@
 # Site Settings
-title:               Millennial
-tagline:             a Jekyll theme
+title:               The Innerspace Journal
+tagline:             Porfolio + Midyouth Chronicle + Amateur Anthropology 
 description:
-baseurl:            #"/Millennial"
-url:                #"https://lenpaul.github.io"
+baseurl:            #"/Innerspace"
+url:                #"https://kivauhuru.github.io"
 github:
-  url:               #"https://lenpaul.github.io/Millennial"
+  url:               #"https://kivauhuru.github.io/Innerspace"
 author:
   name:              "Kiva Uhuru"
   email:             "kiva.uhuru@berkeley.edu"
