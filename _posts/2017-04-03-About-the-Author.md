@@ -4,7 +4,7 @@ title: "About the Author"
 categories: facts
 tags: [sample]
 image:
-  feature: arctic-1.jpg
+  feature: arctic-2.jpg
 ---
 ### Aspiring Roboticist / Writer / Musician / Illustrator
 
