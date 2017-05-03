@@ -4,7 +4,7 @@ title: "About the Author"
 categories: facts
 tags: [sample]
 image:
-  feature: about-kiva-backfacing.jpg
+  feature: arctic-1.jpg
 ---
 ### Aspiring Roboticist / Writer / Musician / Illustrator
 
