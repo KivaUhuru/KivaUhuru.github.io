@@ -7,13 +7,13 @@ url:                #"https://lenpaul.github.io"
 github:
   url:               #"https://lenpaul.github.io/Millennial"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Kiva Uhuru"
+  email:             "kiva.uhuru@berkeley.edu"
+  twitter:           "AndKompany"
+  instagram:         "woodywalken"
+  github:            "KivaUhuru"
+  facebook:          "Kiva.uhuru"
+  linkedin:          "kiva-uhuru"
   
 paginate:            5
 
