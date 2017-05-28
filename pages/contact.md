@@ -3,4 +3,4 @@ layout: misc
 title: Contact
 ---
 
-Email: Kiva (.) uhuru@berkeley (.) edu 
+Email: Kiva . uhuru@berkeley . edu 
