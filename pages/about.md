@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation.
+Kiva Uhuru is a student currently pursuing her B.S. in Electrical Engineering & Computer Science at the University of California, Berkeley College of Engineering. 
+
+Notable interests include supporting access to quality education especially among historically disadvantaged groups, bolstering community collaboration and conversation through art & music, and exploring what robotics and automation can do for our future. 

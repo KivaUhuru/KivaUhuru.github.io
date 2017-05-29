@@ -1,19 +1,19 @@
 # Site Settings
-title:               Millennial
-tagline:             a Jekyll theme
+title:               Kiva Uhuru
+tagline:             Porfolio + Chronicle
 description:
-baseurl:            #"/Millennial"
-url:                #"https://lenpaul.github.io"
+baseurl:            #"/Innerspace"
+url:                #"https://kivauhuru.github.io"
 github:
-  url:               #"https://lenpaul.github.io/Millennial"
+  url:               #"https://kivauhuru.github.io/Innerspace"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Kiva Uhuru"
+  email:             "kiva.uhuru@berkeley.edu"
+  twitter:           "AndKompany"
+  instagram:         "woodywalken"
+  github:            "KivaUhuru"
+  facebook:          "Kiva.uhuru"
+  linkedin:          "kiva-uhuru-221716b2/"
   
 paginate:            5
 
